@@ -1,0 +1,73 @@
+new
+push_front 1
+push_front 2
+push_front 3
+push_front 4
+push_front 5
+push_front 6
+push_front 7
+push_front 8
+push_front 9
+push_front 10
+push_front 11
+push_front 12
+push_front 13
+push_front 14
+push_front 15
+push_front 16
+back 1
+front 16
+size 16
+capacity 16
+push_front 17
+back 1
+front 17
+size 17
+capacity 32
+push_front 18
+push_front 19
+push_front 20
+push_front 21
+push_front 22
+push_front 23
+push_front 24
+push_front 25
+push_front 26
+push_front 27
+push_front 28
+push_front 29
+push_front 30
+push_front 31
+push_front 32
+push_front 33
+back 1
+front 33
+size 33
+capacity 64
+pop_front
+pop_front
+pop_front
+pop_front
+pop_front
+pop_front
+pop_front
+pop_front
+pop_front
+pop_front
+pop_front
+pop_front
+pop_front
+pop_front
+pop_front
+pop_front
+details
+pop_front
+size 16
+capacity 32 
+back 1
+front 16
+delete
+summary
+
+
+

@@ -1,0 +1,1042 @@
+new
+delete
+new
+delete
+new
+pop_front!
+delete
+new
+empty 1
+empty 1
+pop_front!
+size 0
+back!
+delete
+new
+front!
+delete
+new
+clear
+clear
+delete
+new
+empty 1
+back!
+push_back 1005
+back 1005
+empty 0
+back 1005
+push_back 2569
+back 2569
+push_front -7331
+size 3
+back 2569
+front -7331
+empty 0
+size 3
+clear
+push_front -1143
+empty 0
+empty 0
+push_front -7399
+size 2
+pop_back
+empty 0
+empty 0
+back -7399
+push_back 1089
+empty 0
+front -7399
+empty 0
+push_back 1230
+back 1230
+pop_front
+front 1089
+back 1230
+push_front -9508
+empty 0
+pop_back
+front -9508
+back 1089
+clear
+pop_front!
+push_front -8455
+front -8455
+clear
+size 0
+pop_back!
+back!
+size 0
+empty 1
+back!
+empty 1
+clear
+size 0
+delete
+new
+size 0
+back!
+back!
+push_back 1889
+pop_back
+front!
+size 0
+back!
+push_front -9415
+clear
+front!
+size 0
+push_back 941
+back 941
+front 941
+back 941
+size 1
+empty 0
+push_back 599
+empty 0
+front 941
+clear
+front!
+clear
+pop_back!
+pop_front!
+push_front -7248
+empty 0
+clear
+clear
+clear
+delete
+new
+size 0
+push_back 989
+delete
+new
+size 0
+size 0
+size 0
+clear
+pop_back!
+size 0
+delete
+new
+pop_back!
+back!
+front!
+pop_back!
+push_front -6008
+clear
+push_front -10068
+back -10068
+empty 0
+pop_front
+push_back 72
+empty 0
+pop_front
+push_front -3893
+clear
+clear
+pop_back!
+front!
+back!
+pop_back!
+pop_front!
+pop_back!
+delete
+new
+back!
+push_front -10416
+delete
+new
+push_back 271
+empty 0
+back 271
+pop_front
+pop_front!
+pop_front!
+pop_front!
+front!
+pop_back!
+delete
+new
+clear
+push_back 781
+size 1
+clear
+push_back 1668
+clear
+empty 1
+push_front -774
+clear
+pop_front!
+size 0
+clear
+push_back 394
+pop_front
+push_back 226
+delete
+new
+pop_back!
+front!
+back!
+empty 1
+push_front -1217
+push_front -2276
+pop_back
+size 1
+pop_front
+back!
+push_back 1451
+empty 0
+clear
+back!
+back!
+delete
+new
+delete
+new
+front!
+push_front -10165
+push_front -3468
+clear
+pop_front!
+empty 1
+pop_front!
+pop_front!
+size 0
+push_front -10569
+push_front -10837
+empty 0
+empty 0
+empty 0
+push_front -5081
+clear
+empty 1
+clear
+clear
+back!
+size 0
+push_back 1599
+empty 0
+back 1599
+empty 0
+push_back 1595
+push_back 479
+pop_back
+front 1599
+front 1599
+delete
+new
+size 0
+push_front -8764
+pop_back
+clear
+front!
+clear
+clear
+push_back 1361
+push_back 2474
+pop_front
+back 2474
+empty 0
+push_back 1896
+push_front -1844
+push_back 388
+push_back 3446
+pop_front
+pop_front
+pop_front
+delete
+new
+delete
+new
+clear
+pop_back!
+size 0
+clear
+empty 1
+pop_front!
+push_back 2887
+clear
+pop_front!
+delete
+new
+empty 1
+delete
+new
+pop_back!
+empty 1
+front!
+back!
+pop_front!
+push_front -8781
+push_back 605
+delete
+new
+back!
+push_front -2680
+front -2680
+push_back 666
+front -2680
+back 666
+pop_front
+empty 0
+front 666
+pop_front
+clear
+back!
+empty 1
+pop_back!
+empty 1
+pop_front!
+delete
+new
+front!
+front!
+delete
+new
+empty 1
+pop_back!
+back!
+empty 1
+delete
+new
+delete
+new
+size 0
+push_front -169
+pop_front
+empty 1
+pop_front!
+pop_front!
+push_front -10409
+pop_front
+clear
+pop_back!
+front!
+empty 1
+back!
+clear
+empty 1
+clear
+delete
+new
+pop_front!
+push_back 1579
+delete
+new
+push_back 6
+size 1
+front 6
+empty 0
+front 6
+size 1
+push_front -9437
+empty 0
+empty 0
+empty 0
+clear
+push_back 949
+back 949
+pop_back
+size 0
+empty 1
+empty 1
+pop_front!
+pop_back!
+pop_front!
+push_front -717
+push_back 3103
+pop_front
+empty 0
+push_front -1749
+pop_back
+delete
+new
+push_back 3824
+back 3824
+front 3824
+size 1
+pop_back
+size 0
+empty 1
+clear
+size 0
+delete
+new
+pop_back!
+front!
+delete
+new
+empty 1
+delete
+new
+pop_back!
+push_back 1884
+back 1884
+empty 0
+empty 0
+clear
+pop_front!
+push_front -8067
+empty 0
+size 1
+push_front -1242
+empty 0
+pop_back
+pop_front
+empty 1
+empty 1
+delete
+new
+pop_front!
+pop_back!
+pop_front!
+clear
+front!
+delete
+new
+push_back 2249
+push_front -4773
+push_back 3965
+delete
+new
+front!
+push_front -9699
+empty 0
+push_front -4769
+push_front -1132
+size 3
+pop_front
+pop_front
+pop_front
+pop_back!
+delete
+new
+pop_front!
+back!
+empty 1
+push_front -4108
+pop_front
+front!
+delete
+new
+push_back 3504
+clear
+front!
+size 0
+delete
+new
+size 0
+empty 1
+pop_front!
+pop_back!
+back!
+size 0
+push_front -9158
+back -9158
+push_back 3045
+push_front -6829
+front -6829
+front -6829
+size 3
+delete
+new
+pop_front!
+empty 1
+delete
+new
+empty 1
+push_back 546
+empty 0
+empty 0
+empty 0
+empty 0
+pop_back
+push_front -5960
+back -5960
+front -5960
+push_back 3833
+pop_back
+clear
+pop_front!
+push_back 2861
+pop_front
+size 0
+empty 1
+delete
+new
+empty 1
+delete
+new
+delete
+new
+size 0
+front!
+delete
+new
+back!
+delete
+new
+front!
+delete
+new
+push_front -4846
+pop_front
+empty 1
+push_back 734
+push_back 3545
+empty 0
+pop_front
+delete
+new
+front!
+delete
+new
+empty 1
+empty 1
+clear
+clear
+empty 1
+push_back 2960
+pop_front
+size 0
+empty 1
+empty 1
+back!
+pop_front!
+delete
+new
+delete
+new
+size 0
+push_front -6343
+push_back 3179
+empty 0
+empty 0
+empty 0
+empty 0
+pop_back
+front -6343
+pop_back
+size 0
+empty 1
+front!
+size 0
+size 0
+size 0
+front!
+push_front -10053
+clear
+pop_back!
+front!
+size 0
+empty 1
+size 0
+pop_back!
+front!
+pop_front!
+push_back 882
+push_front -5775
+empty 0
+pop_front
+delete
+new
+pop_back!
+delete
+new
+front!
+push_back 1058
+push_back 2079
+push_back 1658
+empty 0
+delete
+new
+back!
+push_front -7141
+empty 0
+front -7141
+size 1
+empty 0
+empty 0
+delete
+new
+push_front -8925
+pop_back
+delete
+new
+pop_front!
+delete
+new
+size 0
+front!
+back!
+front!
+pop_back!
+size 0
+delete
+new
+push_back 3986
+push_front -3082
+clear
+pop_back!
+pop_front!
+push_back 906
+size 1
+push_front -7584
+empty 0
+pop_back
+pop_back
+push_back 1194
+clear
+pop_front!
+pop_back!
+empty 1
+front!
+pop_back!
+clear
+delete
+new
+clear
+empty 1
+empty 1
+clear
+pop_front!
+size 0
+empty 1
+pop_back!
+push_back 1012
+size 1
+front 1012
+front 1012
+pop_front
+pop_back!
+push_front -2815
+push_back 2505
+front -2815
+push_back 3392
+empty 0
+size 3
+push_front -7935
+delete
+new
+push_back 2389
+size 1
+empty 0
+pop_back
+push_front -351
+pop_front
+pop_front!
+clear
+size 0
+pop_back!
+push_front -9476
+pop_back
+pop_back!
+empty 1
+empty 1
+empty 1
+back!
+pop_front!
+front!
+empty 1
+pop_front!
+delete
+new
+pop_front!
+size 0
+clear
+push_front -4801
+front -4801
+delete
+new
+pop_front!
+size 0
+empty 1
+clear
+empty 1
+pop_front!
+back!
+back!
+push_front -6301
+size 1
+empty 0
+front -6301
+empty 0
+pop_back
+push_back 2736
+push_front -1604
+push_front -7545
+empty 0
+delete
+new
+front!
+size 0
+push_front -8307
+empty 0
+back -8307
+clear
+empty 1
+pop_back!
+back!
+front!
+front!
+push_back 3674
+empty 0
+empty 0
+back 3674
+empty 0
+front 3674
+back 3674
+delete
+new
+front!
+push_back 2706
+push_back 3719
+pop_front
+pop_back
+pop_front!
+front!
+size 0
+empty 1
+pop_front!
+push_front -5934
+push_front -9692
+empty 0
+size 2
+push_back 1656
+pop_front
+back 1656
+push_back 3551
+size 3
+push_front -1596
+clear
+size 0
+clear
+pop_front!
+front!
+pop_front!
+pop_front!
+pop_front!
+empty 1
+delete
+new
+delete
+new
+pop_back!
+pop_front!
+back!
+push_back 1172
+empty 0
+push_front -5724
+empty 0
+pop_front
+clear
+push_front -7337
+size 1
+empty 0
+size 1
+push_back 3993
+pop_back
+pop_front
+back!
+push_back 2894
+front 2894
+pop_back
+empty 1
+back!
+front!
+pop_front!
+empty 1
+clear
+empty 1
+clear
+clear
+back!
+empty 1
+push_front -6500
+push_back 1682
+size 2
+size 2
+empty 0
+empty 0
+clear
+push_front -6124
+push_front -8851
+back -6124
+push_front -10608
+pop_front
+front -8851
+front -8851
+delete
+new
+empty 1
+empty 1
+back!
+back!
+front!
+size 0
+size 0
+delete
+new
+empty 1
+empty 1
+back!
+push_front -2748
+size 1
+push_back 2026
+empty 0
+size 2
+clear
+front!
+push_back 679
+size 1
+push_front -8259
+front -8259
+push_back 3144
+back 3144
+delete
+new
+empty 1
+back!
+empty 1
+empty 1
+delete
+new
+front!
+delete
+new
+back!
+size 0
+back!
+empty 1
+empty 1
+size 0
+empty 1
+push_front -4272
+pop_front
+back!
+pop_front!
+empty 1
+back!
+front!
+push_back 2996
+empty 0
+pop_front
+empty 1
+clear
+empty 1
+front!
+empty 1
+delete
+new
+empty 1
+empty 1
+pop_back!
+pop_front!
+pop_back!
+pop_front!
+empty 1
+size 0
+front!
+empty 1
+pop_front!
+size 0
+push_front -8386
+front -8386
+empty 0
+push_back 1889
+push_back 1805
+pop_back
+pop_front
+back 1889
+pop_front
+size 0
+pop_back!
+push_front -3363
+empty 0
+push_front -5969
+pop_back
+push_front -5952
+push_front -9605
+pop_back
+empty 0
+front -9605
+push_back 259
+clear
+delete
+new
+clear
+pop_front!
+empty 1
+size 0
+pop_front!
+pop_back!
+front!
+pop_back!
+pop_back!
+pop_front!
+back!
+back!
+front!
+empty 1
+delete
+new
+empty 1
+size 0
+clear
+back!
+delete
+new
+clear
+empty 1
+clear
+clear
+pop_back!
+pop_back!
+pop_front!
+clear
+pop_back!
+pop_front!
+pop_back!
+push_front -7823
+front -7823
+empty 0
+empty 0
+front -7823
+clear
+clear
+push_front -172
+size 1
+push_back 323
+pop_front
+delete
+new
+front!
+size 0
+push_front -7130
+size 1
+push_front -8440
+pop_front
+pop_back
+size 0
+front!
+clear
+back!
+front!
+delete
+new
+delete
+new
+pop_back!
+empty 1
+front!
+back!
+front!
+size 0
+pop_back!
+back!
+empty 1
+pop_back!
+empty 1
+size 0
+delete
+new
+pop_back!
+pop_front!
+push_front -7816
+size 1
+front -7816
+size 1
+empty 0
+pop_front
+empty 1
+front!
+pop_front!
+push_back 1933
+delete
+new
+back!
+back!
+pop_front!
+size 0
+empty 1
+back!
+back!
+delete
+new
+size 0
+size 0
+delete
+new
+size 0
+push_back 2051
+push_front -8867
+pop_back
+delete
+new
+back!
+empty 1
+empty 1
+push_front -5015
+back -5015
+pop_back
+push_back 744
+push_front -9583
+pop_back
+push_back 1028
+front -9583
+pop_back
+empty 0
+front -9583
+empty 0
+clear
+front!
+push_front -3212
+back -3212
+push_front -3111
+empty 0
+clear
+pop_front!
+pop_front!
+pop_back!
+pop_front!
+back!
+pop_front!
+back!
+pop_front!
+empty 1
+pop_front!
+front!
+pop_front!
+delete
+new
+pop_front!
+pop_front!
+delete
+new
+delete
+new
+back!
+pop_front!
+clear
+push_back 627
+pop_front
+clear
+front!
+pop_back!
+back!
+size 0
+empty 1
+back!
+pop_front!
+pop_back!
+pop_back!
+front!
+push_front -10046
+size 1
+push_back 3241
+push_back 6
+delete
+new
+delete
+summary

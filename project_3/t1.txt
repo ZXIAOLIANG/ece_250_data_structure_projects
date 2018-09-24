@@ -1,0 +1,11 @@
+new
+perfect 2
+erase 1 1
+erase 3 1
+erase 5 1
+erase 2 1 //Erase triggered left-left rotation
+size 3
+height 1
+loop 4 6 7
+delete
+summary

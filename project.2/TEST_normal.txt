@@ -1,0 +1,1009 @@
+new
+pop_back!
+size 0
+empty 1
+back!
+size 0
+pop_back!
+empty 1
+clear
+pop_front!
+pop_back!
+push_back 2314
+empty 0
+front 2314
+empty 0
+empty 0
+empty 0
+pop_front
+push_back 493
+push_back 1356
+size 2
+push_back 1568
+clear
+pop_back!
+empty 1
+back!
+empty 1
+empty 1
+size 0
+empty 1
+push_front -6461
+front -6461
+pop_back
+pop_back!
+front!
+empty 1
+pop_front!
+push_front -1745
+push_front -5778
+size 2
+empty 0
+push_front -10200
+push_front -7576
+empty 0
+pop_back
+back -5778
+push_back 2546
+empty 0
+push_back 2458
+pop_front
+size 4
+push_back 2686
+clear
+empty 1
+push_back 2356
+back 2356
+back 2356
+pop_back
+pop_front!
+push_back 3709
+pop_front
+front!
+push_front -1245
+empty 0
+clear
+back!
+front!
+empty 1
+empty 1
+size 0
+push_back 3066
+front 3066
+front 3066
+size 1
+clear
+pop_back!
+pop_back!
+pop_back!
+pop_back!
+empty 1
+push_back 3739
+clear
+size 0
+empty 1
+size 0
+pop_front!
+pop_back!
+push_back 2673
+empty 0
+pop_back
+front!
+front!
+back!
+empty 1
+clear
+empty 1
+clear
+size 0
+clear
+empty 1
+front!
+clear
+empty 1
+size 0
+size 0
+pop_front!
+size 0
+pop_front!
+back!
+pop_front!
+pop_back!
+back!
+push_back 3110
+empty 0
+size 1
+push_front -8366
+front -8366
+pop_front
+clear
+back!
+push_front -1010
+empty 0
+clear
+pop_back!
+pop_back!
+front!
+clear
+empty 1
+clear
+empty 1
+pop_front!
+pop_back!
+back!
+empty 1
+pop_front!
+push_front -6259
+size 1
+pop_back
+push_back 3215
+size 1
+size 1
+front 3215
+size 1
+empty 0
+empty 0
+empty 0
+size 1
+empty 0
+front 3215
+push_front -10920
+empty 0
+back 3215
+size 2
+back 3215
+back 3215
+push_front -2151
+empty 0
+empty 0
+push_front -8036
+pop_back
+size 3
+push_back 108
+size 4
+front -8036
+empty 0
+pop_front
+pop_front
+pop_front
+back 108
+clear
+pop_back!
+back!
+pop_back!
+back!
+back!
+back!
+front!
+push_front -7227
+empty 0
+pop_front
+back!
+push_front -4403
+push_front -2176
+back -4403
+empty 0
+pop_back
+pop_back
+clear
+size 0
+clear
+clear
+size 0
+size 0
+pop_front!
+empty 1
+empty 1
+push_front -848
+clear
+empty 1
+push_front -1937
+push_front -2288
+size 2
+pop_back
+push_back 418
+clear
+front!
+clear
+pop_back!
+push_back 3008
+back 3008
+push_back 2153
+back 2153
+empty 0
+back 2153
+pop_front
+front 2153
+back 2153
+pop_back
+back!
+clear
+back!
+push_back 105
+pop_front
+back!
+size 0
+pop_front!
+clear
+back!
+front!
+pop_back!
+empty 1
+back!
+back!
+size 0
+push_front -3059
+size 1
+size 1
+push_front -9108
+push_back 3598
+pop_back
+clear
+push_front -1398
+push_back 1944
+push_front -2617
+pop_front
+empty 0
+front -1398
+back 1944
+back 1944
+pop_back
+size 1
+push_front -6390
+front -6390
+empty 0
+back -1398
+clear
+clear
+empty 1
+pop_back!
+push_front -3367
+empty 0
+empty 0
+push_back 3541
+push_front -9288
+front -9288
+clear
+front!
+empty 1
+front!
+push_front -4118
+pop_back
+size 0
+push_front -416
+pop_front
+empty 1
+back!
+front!
+front!
+empty 1
+pop_front!
+size 0
+pop_back!
+pop_back!
+push_front -3150
+empty 0
+pop_front
+empty 1
+clear
+back!
+pop_back!
+empty 1
+pop_front!
+back!
+pop_back!
+empty 1
+pop_front!
+size 0
+push_front -377
+back -377
+size 1
+empty 0
+empty 0
+push_front -4558
+pop_front
+size 1
+pop_front
+empty 1
+pop_back!
+front!
+push_back 151
+clear
+empty 1
+empty 1
+front!
+back!
+pop_back!
+empty 1
+pop_front!
+pop_back!
+pop_front!
+back!
+empty 1
+push_back 1630
+pop_back
+pop_back!
+push_back 3046
+empty 0
+clear
+pop_back!
+back!
+push_front -796
+back -796
+back -796
+front -796
+pop_front
+push_back 578
+push_front -5117
+pop_front
+pop_back
+empty 1
+push_back 3245
+back 3245
+back 3245
+push_back 2687
+push_back 1022
+size 3
+front 3245
+back 1022
+empty 0
+size 3
+empty 0
+pop_back
+empty 0
+push_back 1725
+size 3
+pop_front
+push_back 140
+empty 0
+back 140
+push_back 1113
+empty 0
+pop_front
+pop_front
+empty 0
+clear
+front!
+pop_front!
+size 0
+push_front -3974
+pop_back
+back!
+pop_front!
+clear
+back!
+back!
+pop_front!
+pop_front!
+empty 1
+clear
+front!
+pop_front!
+push_back 1016
+front 1016
+size 1
+empty 0
+pop_front
+pop_front!
+back!
+size 0
+pop_front!
+size 0
+empty 1
+pop_front!
+clear
+size 0
+push_front -9042
+back -9042
+size 1
+pop_front
+pop_front!
+empty 1
+size 0
+back!
+empty 1
+push_front -10188
+push_front -10023
+front -10023
+pop_back
+pop_front
+push_back 4000
+push_back 1145
+push_front -873
+empty 0
+front -873
+empty 0
+size 3
+push_front -8770
+pop_back
+empty 0
+pop_front
+back 4000
+pop_front
+empty 0
+pop_front
+clear
+front!
+pop_front!
+empty 1
+front!
+front!
+push_front -6849
+push_front -7893
+size 2
+push_back 1454
+front -7893
+pop_back
+empty 0
+pop_front
+size 1
+empty 0
+empty 0
+front -6849
+back -6849
+empty 0
+pop_front
+pop_front!
+push_front -1602
+front -1602
+clear
+clear
+front!
+empty 1
+size 0
+pop_back!
+push_front -855
+push_front -9012
+empty 0
+front -9012
+empty 0
+front -9012
+pop_front
+back -855
+empty 0
+front -855
+empty 0
+push_front -10847
+empty 0
+clear
+empty 1
+clear
+pop_back!
+empty 1
+push_back 2751
+back 2751
+front 2751
+back 2751
+clear
+push_back 237
+pop_front
+empty 1
+pop_front!
+pop_back!
+push_front -1373
+push_back 1720
+push_back 636
+back 636
+pop_front
+push_back 3799
+push_back 80
+pop_front
+clear
+back!
+size 0
+push_front -7810
+empty 0
+size 1
+pop_back
+push_front -1835
+push_back 898
+pop_back
+empty 0
+pop_back
+push_back 2602
+pop_back
+push_back 1620
+pop_back
+back!
+size 0
+pop_front!
+pop_front!
+clear
+push_front -9024
+push_back 2343
+pop_back
+push_front -3010
+size 2
+push_back 3330
+size 3
+clear
+push_back 1604
+push_back 1236
+pop_back
+pop_back
+empty 1
+pop_front!
+empty 1
+push_front -3777
+clear
+push_back 2204
+pop_front
+clear
+push_front -8086
+size 1
+push_front -2494
+empty 0
+front -2494
+back -8086
+push_front -930
+front -930
+push_front -11039
+back -8086
+clear
+size 0
+push_front -8744
+empty 0
+pop_front
+empty 1
+empty 1
+pop_back!
+back!
+push_back 1211
+clear
+push_front -4920
+push_front -22
+pop_back
+back -22
+pop_front
+pop_back!
+size 0
+size 0
+push_back 2063
+push_back 1598
+empty 0
+clear
+front!
+pop_back!
+empty 1
+front!
+push_front -4579
+push_back 178
+back 178
+push_front -2829
+pop_front
+back 178
+pop_back
+pop_back
+pop_front!
+push_front -209
+push_back 1859
+push_front -5661
+front -5661
+back 1859
+pop_back
+empty 0
+push_back 2248
+pop_front
+front -209
+pop_back
+push_front -2178
+size 2
+clear
+front!
+size 0
+empty 1
+front!
+empty 1
+back!
+size 0
+pop_back!
+clear
+back!
+front!
+size 0
+pop_front!
+push_front -7383
+push_front -6834
+empty 0
+push_front -10896
+clear
+empty 1
+push_front -927
+empty 0
+back -927
+size 1
+push_front -3188
+pop_back
+size 1
+back -3188
+size 1
+front -3188
+empty 0
+front -3188
+front -3188
+empty 0
+empty 0
+empty 0
+front -3188
+push_front -9544
+pop_back
+clear
+empty 1
+pop_back!
+pop_front!
+push_back 720
+size 1
+size 1
+push_back 2763
+push_front -4714
+push_front -3774
+front -3774
+front -3774
+clear
+push_front -5074
+empty 0
+clear
+pop_front!
+pop_back!
+pop_front!
+pop_back!
+empty 1
+pop_front!
+size 0
+front!
+empty 1
+front!
+pop_front!
+empty 1
+push_front -2403
+clear
+clear
+back!
+push_front -4883
+clear
+size 0
+clear
+clear
+push_front -10463
+pop_back
+clear
+size 0
+push_back 1119
+empty 0
+size 1
+empty 0
+empty 0
+push_front -7291
+pop_front
+pop_back
+push_back 2262
+size 1
+empty 0
+empty 0
+back 2262
+pop_front
+front!
+clear
+size 0
+clear
+pop_back!
+front!
+pop_back!
+push_back 283
+back 283
+pop_front
+push_back 3380
+empty 0
+clear
+empty 1
+empty 1
+push_back 2381
+clear
+push_back 1499
+front 1499
+push_back 3508
+push_back 2734
+clear
+empty 1
+front!
+push_back 901
+back 901
+empty 0
+push_front -5988
+empty 0
+back 901
+pop_back
+empty 0
+empty 0
+pop_back
+push_front -3505
+back -3505
+size 1
+empty 0
+empty 0
+empty 0
+size 1
+push_back 533
+pop_back
+push_back 1446
+pop_back
+push_front -5605
+pop_front
+push_front -8622
+push_back 1235
+size 3
+pop_back
+clear
+empty 1
+clear
+empty 1
+empty 1
+pop_back!
+size 0
+pop_front!
+empty 1
+clear
+push_front -1600
+empty 0
+clear
+front!
+front!
+size 0
+pop_front!
+back!
+push_back 2647
+empty 0
+pop_back
+push_front -10379
+push_front -7442
+pop_front
+pop_front
+front!
+empty 1
+clear
+front!
+back!
+back!
+push_back 2698
+push_front -6492
+empty 0
+size 2
+back 2698
+push_back 2111
+size 3
+pop_back
+pop_back
+empty 0
+pop_front
+size 0
+front!
+back!
+size 0
+pop_front!
+pop_front!
+pop_front!
+front!
+push_front -10067
+push_back 912
+back 912
+empty 0
+size 2
+pop_back
+push_back 2284
+empty 0
+front -10067
+empty 0
+pop_front
+clear
+empty 1
+front!
+front!
+size 0
+pop_front!
+push_front -4658
+pop_back
+empty 1
+empty 1
+empty 1
+empty 1
+pop_front!
+push_front -6316
+empty 0
+back -6316
+back -6316
+clear
+empty 1
+front!
+clear
+pop_back!
+size 0
+push_back 169
+size 1
+empty 0
+pop_back
+empty 1
+push_front -5532
+front -5532
+push_back 3700
+empty 0
+front -5532
+empty 0
+clear
+empty 1
+clear
+push_front -6578
+pop_back
+push_front -2178
+clear
+push_back 752
+clear
+front!
+empty 1
+push_front -8216
+pop_front
+pop_back!
+pop_back!
+front!
+front!
+clear
+clear
+empty 1
+empty 1
+back!
+empty 1
+pop_front!
+front!
+empty 1
+size 0
+push_back 2622
+back 2622
+clear
+empty 1
+back!
+empty 1
+front!
+clear
+pop_back!
+pop_front!
+push_front -8399
+push_front -1932
+empty 0
+back -8399
+size 2
+clear
+size 0
+size 0
+clear
+push_back 2434
+pop_front
+push_back 1340
+empty 0
+push_back 1665
+empty 0
+size 2
+empty 0
+push_back 3002
+size 3
+pop_back
+back 1665
+pop_back
+pop_front
+empty 1
+empty 1
+front!
+push_front -10888
+pop_back
+empty 1
+clear
+empty 1
+push_back 1519
+clear
+empty 1
+pop_front!
+pop_back!
+pop_front!
+push_back 3946
+front 3946
+pop_front
+size 0
+pop_back!
+size 0
+empty 1
+push_front -9073
+push_back 1450
+size 2
+pop_front
+size 1
+back 1450
+push_front -6725
+empty 0
+back 1450
+size 2
+empty 0
+empty 0
+push_back 3178
+pop_front
+pop_back
+pop_back
+push_back 2534
+clear
+front!
+push_back 2205
+empty 0
+pop_front
+back!
+front!
+pop_front!
+pop_front!
+back!
+pop_back!
+empty 1
+back!
+front!
+back!
+empty 1
+push_back 3034
+empty 0
+pop_back
+push_back 3672
+pop_front
+push_front -347
+empty 0
+push_back 317
+front -347
+empty 0
+push_back 1586
+back 1586
+pop_front
+clear
+back!
+size 0
+pop_front!
+back!
+pop_back!
+pop_front!
+pop_front!
+back!
+clear
+size 0
+size 0
+pop_front!
+front!
+back!
+push_front -4568
+push_front -1665
+push_front -7659
+empty 0
+clear
+front!
+empty 1
+empty 1
+pop_front!
+pop_back!
+push_front -7611
+back -7611
+clear
+pop_front!
+pop_front!
+back!
+push_back 3541
+empty 0
+clear
+push_back 230
+size 1
+empty 0
+pop_front
+front!
+empty 1
+pop_back!
+back!
+clear
+empty 1
+delete
+new
+delete
+new
+delete
+new
+delete
+summary

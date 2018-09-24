@@ -1,0 +1,81 @@
+Requirements:
+In this sub-project, you will implement one class:
+
+Resizable Deque: Resizable_deque.
+A deque stores elements in an ordered list and allows insertions and deletions at both ends of the list in O(1) time.
+
+The elements in this deque are stored in an array. The capacity of the array may be changed depending on the number of elements currently stored in the array, according to the following two rules:
+
+If an element is being inserted into a deque where the array is already full, the capacity of the array is doubled.
+If, after removing an element from a deque where the number of elements is 1/4 the capacity of the array, then the capacity of the array is halved. The capacity of the array may not be reduced below the initially specified capacity.
+Runtime:
+The amortized run time of each member function is specified in parentheses at the end of the description.
+
+Class Specifications:
+Resizable_deque
+Description
+A class which implements a deque using an array. The capacity of the array may be changed dynamically after insertions or deletions. For run-time requirements, the number of elements in the deque is n.
+
+Member Variables
+The class at least six member variables:
+
+A pointer to an instance of Type, Type *array, to be used as an array,
+A front index int ifront,
+A back index int iback,
+A size variable int deque_size,
+The initial capacity of the array, int initial_array_capacity, and
+The current capacity of the array, int array_capacity.
+Member Functions
+Constructors
+Resizable_deque( int n = 16 )
+
+The constructor takes as an argument the initial capacity of the array and allocates memory for that array. The initial array capacity must be 16 or more, with a default capacity of 16. Other member variables are assigned as appropriate.
+
+Destructor
+~Resizable_deque()
+
+The destructor deletes the memory allocated for the array.
+
+Copy Constructor
+Resizable_deque( Resizable_deque const & )
+
+The copy constructor creates a new instance of the deque. (O(n))
+
+Move Constructor
+Resizable_deque( Resizable_deque &&list )
+
+The move constructor creates an empty deque (one that can be deleted) and calls swap.
+
+(O(1))
+Accessors
+This class has five accessors:
+
+Type front() const
+Return the object at the front of the deque. It may throw a underflow exception. (O(1))
+Type back() const
+Return the object at the back of the deque. It may throw a underflow exception. (O(1))
+int size() const
+Returns the number of elements currently stored in the deque. (O(1))
+bool empty() const
+Returns true if the deque is empty, false otherwise. (O(1))
+int capacity() const
+Returns the current capacity of the array. (O(1))
+Mutators
+This class has five mutators:
+
+void swap( Resizable_deque & );
+The swap function swaps all the member variables of this deque with those of the argument. (O(1))
+Resizable_deque &operator=( Resizable_deque const & );
+The assignment operator makes a copy of the argument and then swaps the member variables of this node with those of the copy. (O(max{nlhs, nrhs}))
+Double_sentinel_list &operator=( Resizable_deque &&rhs );
+The move operator moves the array in the argument (the right-hand side of the assignment) linked list to this linked list, changing the argument linked list into an empty list. (O(1))
+void push_front( Type const & )
+Insert the new element at the front of the deque. If before the element is placed into the deque, the array is filled, the capacity of the array is doubled. (O(1) on average)
+void push_back( Type const & )
+Insert the new element at the back of the deque. If before the element is placed into the deque, the array is filled, the capacity of the array is doubled. (O(1) on average)
+void pop_front()
+Removes the element at the front of the deque. If, after the element is removed, the array is 1/4 full and the array capacity is greater than the initial capacity, the capacity of the array is halved. This may throw a underflow exception. (O(1) on average)
+void pop_back()
+Removes the element at the back of the deque. If, after the element is removed, the array is 1/4 full and the array capacity is greater than the initial capacity, the capacity of the array is halved. This may throw a underflow exception. (O(1) on average)
+void clear()
+Empties the deque by resetting the member variables. The array is resized to the initial capacity. (O(1))

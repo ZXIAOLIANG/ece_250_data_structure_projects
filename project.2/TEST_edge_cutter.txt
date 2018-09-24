@@ -1,0 +1,1009 @@
+new
+delete
+new
+pop_front!
+clear
+pop_back!
+pop_front!
+pop_back!
+pop_back!
+clear
+pop_back!
+pop_front!
+pop_back!
+pop_front!
+pop_front!
+pop_back!
+pop_back!
+pop_front!
+pop_back!
+pop_back!
+back!
+back!
+pop_front!
+pop_front!
+pop_back!
+push_front -8588
+pop_front
+pop_front!
+size 0
+pop_back!
+pop_back!
+pop_front!
+pop_back!
+pop_front!
+empty 1
+pop_back!
+pop_front!
+back!
+pop_back!
+pop_front!
+push_back 1436
+pop_front
+pop_back!
+pop_front!
+pop_back!
+push_back 3840
+pop_front
+pop_front!
+pop_front!
+pop_front!
+pop_back!
+pop_front!
+pop_back!
+pop_back!
+pop_back!
+pop_back!
+pop_back!
+pop_front!
+pop_front!
+pop_front!
+empty 1
+empty 1
+pop_front!
+clear
+pop_back!
+pop_back!
+empty 1
+pop_back!
+size 0
+pop_front!
+push_back 1834
+size 1
+pop_front
+pop_back!
+pop_back!
+pop_back!
+push_back 2127
+pop_front
+size 0
+push_back 3472
+pop_back
+pop_back!
+pop_front!
+pop_front!
+back!
+pop_back!
+size 0
+pop_back!
+pop_front!
+pop_back!
+pop_back!
+pop_back!
+pop_back!
+pop_back!
+push_back 188
+pop_front
+pop_back!
+pop_front!
+push_back 3368
+pop_front
+pop_back!
+pop_back!
+pop_back!
+pop_front!
+pop_back!
+pop_front!
+pop_front!
+pop_front!
+pop_back!
+pop_back!
+pop_front!
+front!
+pop_back!
+empty 1
+pop_front!
+empty 1
+pop_front!
+pop_front!
+front!
+pop_back!
+pop_back!
+pop_front!
+pop_front!
+pop_back!
+pop_front!
+push_front -968
+pop_front
+empty 1
+pop_front!
+pop_back!
+empty 1
+pop_back!
+pop_back!
+pop_back!
+pop_front!
+pop_front!
+empty 1
+pop_back!
+empty 1
+pop_front!
+empty 1
+pop_back!
+pop_front!
+pop_front!
+pop_front!
+pop_front!
+pop_back!
+pop_front!
+pop_back!
+pop_front!
+pop_front!
+pop_front!
+pop_back!
+pop_front!
+size 0
+back!
+pop_front!
+pop_front!
+pop_back!
+pop_back!
+pop_front!
+pop_back!
+pop_front!
+pop_front!
+pop_back!
+pop_front!
+pop_front!
+push_front -2059
+push_back 560
+pop_front
+pop_back
+pop_front!
+size 0
+pop_front!
+pop_front!
+pop_back!
+pop_back!
+pop_back!
+pop_back!
+pop_back!
+pop_back!
+push_back 780
+pop_back
+pop_front!
+pop_front!
+pop_front!
+pop_front!
+pop_back!
+front!
+pop_back!
+clear
+pop_back!
+pop_front!
+pop_front!
+pop_back!
+pop_front!
+push_front -6052
+pop_front
+pop_back!
+pop_back!
+pop_front!
+pop_front!
+pop_back!
+pop_front!
+size 0
+back!
+pop_back!
+pop_front!
+push_back 3079
+pop_back
+pop_back!
+pop_front!
+pop_back!
+pop_back!
+pop_front!
+pop_back!
+empty 1
+pop_front!
+empty 1
+pop_back!
+pop_back!
+pop_back!
+pop_back!
+back!
+pop_back!
+push_front -5276
+push_front -10524
+pop_front
+empty 0
+pop_back
+pop_front!
+pop_front!
+pop_back!
+pop_front!
+pop_front!
+pop_front!
+empty 1
+pop_front!
+pop_front!
+pop_back!
+size 0
+pop_back!
+pop_back!
+clear
+back!
+clear
+pop_back!
+clear
+back!
+back!
+size 0
+pop_front!
+pop_back!
+pop_back!
+size 0
+clear
+pop_front!
+back!
+pop_back!
+pop_front!
+pop_back!
+pop_back!
+pop_front!
+pop_back!
+pop_back!
+pop_back!
+empty 1
+pop_back!
+pop_front!
+pop_back!
+pop_back!
+pop_back!
+pop_back!
+pop_back!
+pop_back!
+pop_back!
+pop_back!
+pop_back!
+push_back 1406
+pop_front
+pop_back!
+pop_back!
+pop_back!
+clear
+pop_back!
+pop_back!
+pop_front!
+back!
+pop_front!
+pop_back!
+pop_front!
+pop_front!
+pop_back!
+pop_back!
+front!
+size 0
+empty 1
+pop_front!
+pop_front!
+pop_back!
+pop_back!
+empty 1
+pop_back!
+pop_back!
+pop_front!
+pop_back!
+pop_front!
+pop_front!
+pop_back!
+pop_back!
+pop_back!
+pop_back!
+pop_back!
+push_back 1021
+pop_back
+pop_back!
+pop_front!
+pop_front!
+pop_front!
+clear
+pop_front!
+push_back 117
+pop_back
+pop_back!
+front!
+empty 1
+empty 1
+front!
+pop_back!
+pop_front!
+empty 1
+pop_back!
+pop_front!
+empty 1
+pop_back!
+pop_back!
+pop_back!
+pop_back!
+size 0
+pop_back!
+pop_back!
+pop_front!
+clear
+empty 1
+pop_front!
+clear
+pop_front!
+pop_front!
+pop_back!
+clear
+pop_back!
+size 0
+pop_front!
+pop_back!
+pop_front!
+pop_back!
+pop_back!
+pop_front!
+pop_back!
+pop_front!
+pop_back!
+pop_back!
+pop_front!
+pop_back!
+pop_front!
+pop_front!
+front!
+pop_back!
+pop_front!
+pop_back!
+size 0
+size 0
+pop_back!
+pop_back!
+front!
+pop_back!
+clear
+pop_front!
+pop_back!
+pop_back!
+pop_back!
+pop_back!
+pop_front!
+back!
+pop_front!
+pop_back!
+pop_back!
+pop_front!
+empty 1
+pop_back!
+pop_front!
+pop_front!
+pop_back!
+pop_front!
+pop_front!
+empty 1
+pop_front!
+push_back 2041
+pop_front
+pop_front!
+pop_front!
+pop_back!
+pop_front!
+empty 1
+push_back 226
+clear
+pop_back!
+pop_back!
+push_back 3542
+pop_back
+push_back 2
+push_back 1678
+pop_front
+push_back 2492
+pop_back
+empty 0
+pop_front
+pop_back!
+clear
+pop_front!
+clear
+pop_back!
+pop_back!
+pop_back!
+push_back 3517
+pop_front
+back!
+pop_front!
+pop_front!
+front!
+back!
+pop_back!
+pop_back!
+pop_front!
+pop_back!
+pop_front!
+pop_back!
+pop_front!
+front!
+back!
+pop_back!
+front!
+pop_back!
+back!
+pop_back!
+back!
+pop_back!
+pop_front!
+empty 1
+pop_back!
+pop_front!
+push_back 1267
+pop_front
+push_back 2829
+pop_back
+pop_front!
+pop_back!
+size 0
+pop_back!
+empty 1
+pop_front!
+size 0
+pop_back!
+pop_front!
+pop_front!
+pop_back!
+clear
+pop_back!
+front!
+pop_front!
+pop_front!
+size 0
+pop_back!
+pop_back!
+push_back 1139
+size 1
+pop_front
+push_back 1869
+pop_front
+pop_back!
+pop_back!
+pop_front!
+pop_front!
+empty 1
+pop_front!
+back!
+empty 1
+size 0
+pop_back!
+pop_back!
+pop_back!
+pop_back!
+pop_back!
+back!
+pop_back!
+pop_back!
+pop_back!
+pop_front!
+front!
+push_back 1682
+pop_front
+pop_back!
+front!
+pop_back!
+pop_front!
+pop_front!
+pop_back!
+empty 1
+pop_front!
+pop_back!
+pop_front!
+push_back 3313
+pop_back
+pop_back!
+pop_front!
+pop_front!
+back!
+pop_front!
+back!
+pop_front!
+pop_front!
+pop_front!
+pop_front!
+pop_back!
+empty 1
+pop_back!
+back!
+empty 1
+back!
+pop_back!
+push_back 2008
+size 1
+push_front -2938
+pop_front
+size 1
+pop_front
+back!
+pop_back!
+pop_front!
+pop_front!
+pop_back!
+pop_front!
+pop_front!
+pop_front!
+pop_front!
+pop_back!
+pop_back!
+pop_front!
+pop_front!
+pop_front!
+pop_front!
+pop_front!
+pop_front!
+push_back 2448
+pop_back
+pop_back!
+pop_back!
+pop_back!
+pop_front!
+pop_front!
+pop_front!
+pop_back!
+pop_front!
+pop_back!
+pop_back!
+pop_front!
+empty 1
+pop_front!
+pop_front!
+pop_front!
+size 0
+push_front -9058
+front -9058
+pop_back
+pop_front!
+pop_back!
+pop_back!
+pop_front!
+pop_front!
+pop_back!
+empty 1
+pop_front!
+pop_back!
+front!
+pop_back!
+pop_back!
+pop_front!
+pop_front!
+empty 1
+pop_back!
+pop_front!
+size 0
+front!
+size 0
+pop_front!
+pop_front!
+pop_front!
+pop_back!
+pop_front!
+pop_back!
+pop_back!
+pop_front!
+empty 1
+pop_back!
+pop_front!
+pop_back!
+pop_back!
+pop_back!
+pop_front!
+pop_back!
+pop_back!
+pop_back!
+empty 1
+pop_back!
+pop_front!
+front!
+pop_back!
+empty 1
+back!
+empty 1
+pop_back!
+clear
+pop_back!
+pop_front!
+pop_back!
+pop_front!
+pop_back!
+pop_front!
+pop_front!
+pop_front!
+empty 1
+clear
+pop_back!
+pop_back!
+clear
+pop_front!
+front!
+pop_back!
+front!
+push_front -3738
+empty 0
+size 1
+pop_front
+pop_back!
+pop_front!
+pop_back!
+push_front -5019
+pop_front
+pop_back!
+pop_front!
+pop_front!
+pop_front!
+pop_front!
+pop_front!
+back!
+push_front -3229
+back -3229
+back -3229
+size 1
+push_back 3419
+pop_back
+pop_front
+pop_front!
+pop_front!
+back!
+pop_back!
+pop_front!
+pop_back!
+pop_front!
+pop_front!
+pop_front!
+pop_back!
+back!
+pop_front!
+pop_back!
+pop_back!
+pop_back!
+back!
+pop_front!
+pop_front!
+clear
+pop_back!
+pop_front!
+pop_front!
+empty 1
+pop_back!
+pop_front!
+pop_front!
+pop_back!
+pop_back!
+size 0
+pop_front!
+pop_front!
+pop_front!
+pop_back!
+pop_back!
+pop_front!
+pop_front!
+pop_back!
+pop_back!
+pop_back!
+push_front -4979
+pop_back
+pop_back!
+pop_back!
+clear
+pop_back!
+pop_front!
+size 0
+empty 1
+front!
+pop_back!
+pop_front!
+push_front -5163
+pop_front
+pop_front!
+pop_front!
+pop_front!
+pop_back!
+pop_back!
+pop_back!
+pop_back!
+pop_back!
+pop_back!
+size 0
+pop_back!
+pop_front!
+pop_front!
+pop_back!
+pop_back!
+size 0
+pop_front!
+pop_back!
+pop_back!
+pop_back!
+pop_back!
+pop_back!
+pop_back!
+pop_front!
+clear
+pop_front!
+front!
+push_back 2817
+pop_front
+pop_back!
+empty 1
+pop_back!
+pop_back!
+pop_front!
+pop_back!
+pop_back!
+pop_back!
+pop_back!
+empty 1
+pop_back!
+back!
+pop_front!
+pop_front!
+push_back 1797
+pop_back
+clear
+back!
+back!
+pop_front!
+pop_back!
+pop_back!
+pop_front!
+pop_back!
+pop_back!
+size 0
+pop_front!
+pop_back!
+push_back 1939
+pop_back
+pop_front!
+push_front -10304
+size 1
+pop_back
+pop_front!
+pop_front!
+pop_back!
+pop_front!
+empty 1
+pop_front!
+empty 1
+pop_front!
+back!
+pop_front!
+empty 1
+pop_back!
+pop_back!
+pop_front!
+pop_back!
+pop_front!
+size 0
+pop_front!
+empty 1
+pop_back!
+pop_front!
+pop_front!
+empty 1
+pop_back!
+empty 1
+pop_back!
+pop_back!
+pop_front!
+push_front -7115
+pop_back
+pop_front!
+pop_front!
+push_front -3034
+back -3034
+pop_back
+pop_back!
+pop_front!
+pop_back!
+push_front -287
+pop_back
+pop_back!
+pop_front!
+pop_back!
+pop_back!
+pop_back!
+pop_back!
+pop_front!
+pop_front!
+pop_back!
+pop_front!
+pop_front!
+pop_back!
+push_front -9819
+pop_front
+pop_back!
+pop_back!
+pop_back!
+pop_back!
+pop_front!
+pop_front!
+pop_back!
+pop_back!
+pop_front!
+pop_front!
+back!
+pop_front!
+push_front -3591
+pop_back
+pop_back!
+pop_back!
+pop_back!
+clear
+size 0
+pop_front!
+pop_back!
+pop_back!
+pop_front!
+pop_front!
+pop_front!
+back!
+clear
+clear
+pop_front!
+pop_front!
+back!
+size 0
+empty 1
+pop_front!
+pop_back!
+front!
+pop_front!
+push_front -9035
+pop_back
+pop_front!
+push_front -6036
+pop_front
+pop_front!
+push_back 883
+pop_front
+pop_back!
+pop_front!
+pop_back!
+back!
+pop_back!
+pop_front!
+pop_front!
+pop_back!
+pop_back!
+pop_front!
+push_back 2395
+front 2395
+pop_back
+empty 1
+pop_front!
+pop_back!
+size 0
+pop_back!
+push_front -2644
+pop_front
+pop_front!
+pop_front!
+pop_front!
+push_back 3662
+pop_front
+empty 1
+pop_back!
+pop_front!
+clear
+pop_back!
+pop_back!
+pop_front!
+pop_front!
+push_back 1135
+pop_back
+pop_back!
+pop_back!
+size 0
+pop_front!
+front!
+pop_back!
+pop_front!
+empty 1
+pop_front!
+pop_back!
+pop_back!
+pop_back!
+pop_front!
+pop_front!
+pop_front!
+pop_back!
+pop_back!
+pop_back!
+back!
+pop_back!
+pop_front!
+pop_back!
+pop_front!
+pop_back!
+pop_front!
+pop_back!
+pop_front!
+pop_back!
+pop_front!
+pop_back!
+pop_front!
+pop_front!
+pop_back!
+front!
+pop_front!
+pop_front!
+pop_front!
+pop_back!
+pop_front!
+pop_back!
+pop_back!
+pop_front!
+size 0
+pop_front!
+empty 1
+size 0
+pop_back!
+pop_back!
+pop_front!
+pop_front!
+size 0
+pop_back!
+front!
+pop_front!
+pop_back!
+pop_front!
+pop_front!
+back!
+pop_back!
+pop_front!
+pop_back!
+pop_front!
+empty 1
+pop_back!
+pop_back!
+pop_back!
+pop_front!
+pop_back!
+pop_front!
+pop_back!
+push_back 3491
+pop_front
+pop_back!
+pop_front!
+empty 1
+pop_back!
+back!
+pop_back!
+pop_back!
+pop_back!
+pop_back!
+pop_front!
+pop_back!
+empty 1
+pop_front!
+front!
+pop_front!
+push_front -87
+pop_front
+pop_back!
+pop_back!
+delete
+new
+delete
+new
+delete
+summary
